@@ -42,6 +42,6 @@ Majorly our entire solution is divided into 2 components:
 * Object feature extraction and similarity measurement using ResNet trained with ImageNet in Tensorflow Hub
 
 ### Contributors
-* Nakshatra
 * Devansh Gupta
+* Nakshatra
 * Ankita Puri
